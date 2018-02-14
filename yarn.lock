@@ -367,6 +367,10 @@ right-align@^0.1.1:
   dependencies:
     align-text "^0.1.1"
 
+sass@^1.0.0-beta.5.2:
+  version "1.0.0-beta.5.2"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.0.0-beta.5.2.tgz#25d025064f051507665ef1371e24cdc62b6d5829"
+
 source-map@0.4.x:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.4.4.tgz#eba4f5da9c0dc999de68032d8b4f76173652036b"
