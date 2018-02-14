@@ -1,10 +1,7 @@
-# <Project Title>
+# Heat map
 
-<Insert short description of the project>.
-Try it live [here]().
+Display the temperature by month from 1753 to 2015 in a heat map. Mouse over for more details.
 
-This project is part of the FreeCodeCamp curriculum and completes the [*<Replace with project name and link>* project]().
+Try it live [here](https://mjeff7.github.io/heatmap/).
 
-## Project layout
-
-<Optionally include details about the layout and other good to know things.>
+This project is part of the FreeCodeCamp curriculum and completes the [*Visualize Data with a Heat Map* project](https://www.freecodecamp.org/challenges/visualize-data-with-a-heat-map).
